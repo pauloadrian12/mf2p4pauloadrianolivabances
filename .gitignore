@@ -1,0 +1,3 @@
+# Normalment no es fa un seguiment de la carpeta node_modules
+# Ja que tota la informacio de dependencies la podem trobar dins el package.json
+node_modules/
