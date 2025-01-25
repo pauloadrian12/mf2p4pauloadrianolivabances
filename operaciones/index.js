@@ -21,7 +21,7 @@ return retornar
  */
 function multiplica(...valors) {
     let retornar=1
-    for( let i of retornar){
+    for( let i of valors){
         retornar=retornar*i
     }
     return retornar
