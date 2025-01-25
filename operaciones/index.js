@@ -5,7 +5,11 @@
  * @returns {Number} el resultat de la operacio
  */
 function suma(...valors) {
-
+let retornar=0
+for (let i of valors){
+    retornar+=i
+}
+return retornar
 }
 
 
