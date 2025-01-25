@@ -16,6 +16,11 @@ function suma(...valors) {
  * @returns {Number} el resultat de la operacio
  */
 function multiplica(...valors) {
+    let retornar=1
+    for( let i of retornar){
+        retornar=retornar*i
+    }
+    return retornar
 
 }
 
